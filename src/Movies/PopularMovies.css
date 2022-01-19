@@ -1,0 +1,14 @@
+.PopularMovies {
+  position: absolute;
+  top:10%;
+  right: 1%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+.details{
+  position: absolute;
+  top:20%;
+}
